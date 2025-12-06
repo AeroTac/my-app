@@ -1,7 +1,14 @@
 {
   "repository": "AeroTac/my-app",
   "version": "1.0.0",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "AeroTac/optional-dep",
+      "source": "git@github.com:AeroTac/optional-dep.git",
+      "version": "latest",
+      "required": false
+    }
+  ],
   "type": "atomic",
   "language": "python"
 }
