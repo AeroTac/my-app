@@ -13,6 +13,12 @@
       "source": "git@github.com:AeroTac/custom-path-dep.git",
       "version": "latest",
       "path": "libs/shared-utils"
+    },
+    {
+      "name": "AeroTac/noted-dep",
+      "source": "git@github.com:AeroTac/noted-dep.git",
+      "version": "latest",
+      "note": "Required for authentication"
     }
   ],
   "type": "atomic",
