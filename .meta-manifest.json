@@ -25,6 +25,12 @@
       "source": "git@github.com:AeroTac/dev-dep.git",
       "version": "latest",
       "type": "dev"
+    },
+    {
+      "name": "AeroTac/runtime-dep",
+      "source": "git@github.com:AeroTac/runtime-dep.git",
+      "version": "latest",
+      "type": "runtime"
     }
   ],
   "type": "atomic",
