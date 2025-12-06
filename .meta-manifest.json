@@ -1,6 +1,8 @@
 {
   "repository": "AeroTac/my-app",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "dependencies": [],
-  "language": "python"
+  "type": "atomic",
+  "description": "Test",
+  "language": "Python"
 }
