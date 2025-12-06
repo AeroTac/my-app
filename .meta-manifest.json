@@ -1,7 +1,13 @@
 {
   "repository": "AeroTac/my-app",
   "version": "1.0.0",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "AeroTac/test-dep",
+      "source": "git@github.com:AeroTac/test-dep.git",
+      "version": "^1.2.0"
+    }
+  ],
   "type": "atomic",
   "description": "New atomic repository",
   "language": "Python"
