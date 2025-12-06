@@ -19,6 +19,12 @@
       "source": "git@github.com:AeroTac/noted-dep.git",
       "version": "latest",
       "note": "Required for authentication"
+    },
+    {
+      "name": "AeroTac/dev-dep",
+      "source": "git@github.com:AeroTac/dev-dep.git",
+      "version": "latest",
+      "type": "dev"
     }
   ],
   "type": "atomic",
